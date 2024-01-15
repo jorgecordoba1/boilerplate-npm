@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "JorgeCordoba",
+	"author": "Jorge Cordoba",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -10,7 +10,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
+		"url": "https://github.com/jorgecordoba1/boilerplate-npm.git"
 	}
 
 }
